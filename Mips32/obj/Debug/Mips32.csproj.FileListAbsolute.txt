@@ -1,0 +1,14 @@
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\bin\Debug\Mips32.exe.config
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\bin\Debug\Mips32.exe
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\bin\Debug\Mips32.pdb
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\obj\Debug\Mips32.csprojResolveAssemblyReference.cache
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\obj\Debug\Mips32.exe
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\obj\Debug\Mips32.pdb
+C:\Users\codel\Documents\Visual Studio 2017\Projects\F#\Mips32\Mips32\obj\Debug\Mips32.csproj.CoreCompileInputs.cache
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\bin\Debug\Mips32.exe.config
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\bin\Debug\Mips32.exe
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\bin\Debug\Mips32.pdb
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\obj\Debug\Mips32.csprojResolveAssemblyReference.cache
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\obj\Debug\Mips32.csproj.CoreCompileInputs.cache
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\obj\Debug\Mips32.exe
+C:\Users\codel\Documents\Visual Studio 2017\Projects\C#\Mips32\Mips32\obj\Debug\Mips32.pdb

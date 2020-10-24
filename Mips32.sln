@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mips32", "Mips32\Mips32.csproj", "{438F77C2-4D25-423F-8DD2-63EF4BB2409A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438F77C2-4D25-423F-8DD2-63EF4BB2409A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F77C2-4D25-423F-8DD2-63EF4BB2409A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F77C2-4D25-423F-8DD2-63EF4BB2409A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F77C2-4D25-423F-8DD2-63EF4BB2409A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
